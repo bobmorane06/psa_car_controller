@@ -27,6 +27,7 @@ The official API is documented [here](https://developer.groupe-psa.io/webapi/b2c
 
 
  ## I. Installation
+Stellantis made some breaking changes to the authentification process in January 2024, see [[How to] Connect with the new procedure](https://github.com/flobz/psa_car_controller/discussions/779) for directions and [Change to the PSA API - Internal Error 400 #733](https://github.com/flobz/psa_car_controller/issues/733#issuecomment-1969950399) for a discussion and tips on the changes.  
 - [Installation on Linux or Windows](docs/Install.md)
 - [Installation as Home Assistant addon](https://github.com/flobz/psacc-ha/blob/main/psacc-ha/README.md)  
 - [Installation in Docker](docs/Docker.md)
